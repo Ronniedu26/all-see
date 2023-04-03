@@ -1,1 +1,1 @@
-# all-see
+# The All-Seeing Application
